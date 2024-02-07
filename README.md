@@ -1,6 +1,6 @@
 ## Saudações! Meu nome é Marcelo                                                                           
 
-📚 Atualmente estou cursando o 1° semestre do Bacharelado em Sistemas de Informação no IFSP
+📚 Atualmente estou cursando o 3° semestre do Bacharelado em Sistemas de Informação no IFSP
                                                                             
 😬 Em meu perfil você poderá encontrar diversos exercicios das disciplinas do curso e alguns exercicios extras, sendo eles inventados por mim ou de algum curso online sobre (fique à vontade, meu caro)
                            
