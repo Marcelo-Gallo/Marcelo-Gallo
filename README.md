@@ -27,31 +27,31 @@ Como alguem apaixonado por pesquisa, estou sempre em busca de expandir meus hori
 
 ## 🧑‍💻 Repositórios
 
-### 1. [Faculdade](https://github.com/MarceloGallo/Faculdade)
+### 1. [Faculdade](https://github.com/Marcelo-Gallo/Faculdade)
 Repositório onde armazeno materiais relacionados a faculdade.
 
-### 2. [Curso desenvolvimento web](https://github.com/MarceloGallo/CursoWeb)
+### 2. [Curso desenvolvimento web](https://github.com/Marcelo-Gallo/CursoWeb)
 Repositório onde armazeno os materiais baseados no meu primeiro contato com desenvolvimento web
 
 ---
 
 ## 📚 Materiais de Estudo
 ### Linguagens de Programação
-- **[PHP](https://github.com/MarceloGallo/Caderno/PHP)**: Repositório com resumos e projetos simples em PHP.
-- **[C/C++](https://github.com/MarceloGallo/Caderno/c_cpp)**: Repositório com resumos e projetos simples em C/C++.
-- **[JavaScript](https://github.com/MarceloGallo/Caderno/JavaScript)**: Repositório com resumos e projetos simples em JavaScript.
-- **[Java](https://github.com/MarceloGallo/Caderno/Java)**: Repositório com resumos e projetos simples em Java.
+- **[PHP](https://github.com/Marcelo-Gallo/Caderno/PHP)**: Repositório com resumos e projetos simples em PHP.
+- **[C/C++](https://github.com/Marcelo-Gallo/Caderno/c_cpp)**: Repositório com resumos e projetos simples em C/C++.
+- **[JavaScript](https://github.com/Marcelo-Gallo/Caderno/JavaScript)**: Repositório com resumos e projetos simples em JavaScript.
+- **[Java](https://github.com/Marcelo-Gallo/Caderno/Java)**: Repositório com resumos e projetos simples em Java.
 
 ### Linguagens de Marcação
-- **[HTML/CSS](https://github.com/MarceloGallo/Caderno/HTML_CSS)**: Repositório com resumos e projetos simples com HTML e CSS.
-- **[MarkDown](https://github.com/MarceloGallo/Caderno/Markdown)**: Repositório com resumos e guias sobre Markdown.
+- **[HTML/CSS](https://github.com/Marcelo-Gallo/Caderno/HTML_CSS)**: Repositório com resumos e projetos simples com HTML e CSS.
+- **[MarkDown](https://github.com/Marcelo-Gallo/Caderno/Markdown)**: Repositório com resumos e guias sobre Markdown.
 
 ### SQL
-- **[MySQL](https://github.com/MarceloGallo/Caderno/MySQL)**: Repositório com resumos e projetos simples em C/C++.
+- **[MySQL](https://github.com/Marcelo-Gallo/Caderno/MySQL)**: Repositório com resumos e projetos simples em C/C++.
 
 ### Pesquisa Científica
 
-- **[Projetos de Pesquisa](https://github.com/MarceloGallo/Caderno/Bibliografia_IC_2024)**: Repositório com projetos e artigos científicos relacionados à minha pesquisa acadêmica.
+- **[Projetos de Pesquisa](https://github.com/Marcelo-Gallo/Caderno/Bibliografia_IC_2024)**: Repositório com projetos e artigos científicos relacionados à minha pesquisa acadêmica.
 
 ---
 
@@ -59,7 +59,7 @@ Repositório onde armazeno os materiais baseados no meu primeiro contato com des
 
 - **Email**: [marceloaugustogallo@gmail.com.br](mailto:marceloaugustogallo@gmail.com.br)
 - **LinkedIn**: [Marcelo Gallo](https://https://www.linkedin.com/in/marceloaugustogodoigallo/)
-- **GitHub**: [MarceloGallo](https://github.com/MarceloGallo)
+- **GitHub**: [Marcelo-Gallo](https://github.com/Marcelo-Gallo)
 
 ---
 
@@ -84,10 +84,4 @@ Olá, eu sou o Marcelo Gallo, estudante de Bacharelado em Sistemas de Informaç�
 ### 💡 Filosofia de vida
 
 "Com trabalho duro, sempre é possível melhorar."
-<!--
-### 🌐 Presença Online e Networking
-
-- **Comunidades**: Participei das reuniões da H3art até três meses atrás. Agora, prefiro desconectar e aproveitar o tempo cozinhando, cuidando de plantas e praticando marcenaria.
-- **Plataformas de Aprendizado**: Cisco, Udemy, YouTube.
---->
 ---
