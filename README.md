@@ -37,7 +37,7 @@ Repositório onde armazeno os materiais baseados no meu primeiro contato com des
 
 ## 📚 Materiais de Estudo
 ### Linguagens de Programação
-- **[PHP](https://github.com/Marcelo-Gallo/Caderno/PHP)**: Repositório com resumos e projetos simples em PHP.
+- **[PHP](https://github.com/Marcelo-Gallo/Caderno/tree/main/HTML_CSS)**: Repositório com resumos e projetos simples em PHP.
 - **[C/C++](https://github.com/Marcelo-Gallo/Caderno/c_cpp)**: Repositório com resumos e projetos simples em C/C++.
 - **[JavaScript](https://github.com/Marcelo-Gallo/Caderno/JavaScript)**: Repositório com resumos e projetos simples em JavaScript.
 - **[Java](https://github.com/Marcelo-Gallo/Caderno/Java)**: Repositório com resumos e projetos simples em Java.
