@@ -69,39 +69,21 @@ Olá, eu sou o Marcelo Gallo, estudante de Bacharelado em Sistemas de Informaç�
 
 ### 🎓 Formação Acadêmica
 
-- **Disciplinas Favoritas**: Programação Web, Banco de Dados, Análise Orientada a Objetos, Estrutura de Dados.
-- **Projeto Atual**: Estou desenvolvendo uma pesquisa sobre estufas inteligentes, focada na automatização de uma estufa para produção de baunilha Vanilla planifolia.
-
-### 🎯 Objetivos
-
-- **Curto Prazo**: Criar contatos e amizades nas mais diversas áreas do conhecimento, situar-me no ambiente da pesquisa acadêmica, produzir trabalhos e ganhar dinheiro com a pesquisa.
-- **Longo Prazo**: Trabalhar na área de pesquisa acadêmica e automação, contribuindo para o desenvolvimento científico e tecnológico.
+- Atualmente sou técnico em edificações formado pelo IFSP campus Votuporanga.
 
 ### 🛠️ Habilidades e Experiências
 
 - **Projetos Desafiadores**: Desenvolvendo um sistema para captar dados da estufa usando um ESP32, enviando para o banco de dados e exibindo em tempo real em um ambiente web.
 - **Tecnologias**: Conhecimento em PHP, HTML, CSS e C/C++. Acredito no potencial "on cloud".
 
-### 📜 Certificações
-
-- Ainda não possuo certificações, mas estou buscando me aprofundar no assunto.
-
-### 🎮 Interesses e Hobbies
-
-- **Jogos**: Minecraft, Project Zomboid, Valorant, DayZ, Subnautica.
-- **Séries**: The Walking Dead, Fallout, The Boys, Supernatural, Fargo, Criminal Minds.
-- **Leituras Recentes**: Saga completa de O Senhor dos Anéis e O Hobbit.
-- **Recomendações de Leitura**: 1984, A Revolução dos Bichos, Memórias Póstumas de Brás Cubas, O Mágico de Oz, Lovecraft, Edgar Allan Poe.
-- **Esportes e Música**: Pratico musculação e corrida. Apreciador de rock clássico, MPB, pagode, sertanejo e jazz.
-
 ### 🌱 Visão e Valores
 
 - **Motivação**: Acredito que a pesquisa científica é fundamental para tornar o mundo melhor.
 - **Sustentabilidade**: Sempre busco alternativas que menos agridam o meio ambiente e que gerem economia de recursos naturais, deixando a menor pegada de carbono possivel. Valorizo itens de madeira, plantas e materiais biodegradáveis.
 
-### 💡 Filosofia
+### 💡 Filosofia de vida
 
-- **Lema de Vida**: "Com trabalho duro, sempre é possível melhorar."
+"Com trabalho duro, sempre é possível melhorar."
 <!--
 ### 🌐 Presença Online e Networking
 
@@ -109,9 +91,3 @@ Olá, eu sou o Marcelo Gallo, estudante de Bacharelado em Sistemas de Informaç�
 - **Plataformas de Aprendizado**: Cisco, Udemy, YouTube.
 --->
 ---
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo!
-
-- **Email**: [marceloaugustogallo@gmail.com](mailto:marceloaugustogallo@gmail.com)
-- **LinkedIn**: [Marcelo Gallo](https://www.linkedin.com/in/marceloaugustogodoigallo)
-- **GitHub**: [MarceloGallo](https://github.com/MarceloGallo)
