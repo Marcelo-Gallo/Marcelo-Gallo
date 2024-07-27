@@ -37,21 +37,21 @@ Repositório onde armazeno os materiais baseados no meu primeiro contato com des
 
 ## 📚 Materiais de Estudo
 ### Linguagens de Programação
-- **[PHP](https://github.com/Marcelo-Gallo/Caderno/tree/main/HTML_CSS)**: Repositório com resumos e projetos simples em PHP.
-- **[C/C++](https://github.com/Marcelo-Gallo/Caderno/c_cpp)**: Repositório com resumos e projetos simples em C/C++.
-- **[JavaScript](https://github.com/Marcelo-Gallo/Caderno/JavaScript)**: Repositório com resumos e projetos simples em JavaScript.
-- **[Java](https://github.com/Marcelo-Gallo/Caderno/Java)**: Repositório com resumos e projetos simples em Java.
+- **[PHP](https://github.com/Marcelo-Gallo/Caderno/tree/main/PHP)**: Repositório com resumos e projetos simples em PHP.
+- **[C/C++](https://github.com/Marcelo-Gallo/Caderno/tree/main/c_cpp)**: Repositório com resumos e projetos simples em C/C++.
+- **[JavaScript](https://github.com/Marcelo-Gallo/Caderno/tree/main/JavaScript)**: Repositório com resumos e projetos simples em JavaScript.
+- **[Java](https://github.com/Marcelo-Gallo/Caderno/tree/main/Java)**: Repositório com resumos e projetos simples em Java.
 
 ### Linguagens de Marcação
-- **[HTML/CSS](https://github.com/Marcelo-Gallo/Caderno/HTML_CSS)**: Repositório com resumos e projetos simples com HTML e CSS.
-- **[MarkDown](https://github.com/Marcelo-Gallo/Caderno/Markdown)**: Repositório com resumos e guias sobre Markdown.
+- **[HTML/CSS](https://github.com/Marcelo-Gallo/Caderno/tree/main/HTML_CSS)**: Repositório com resumos e projetos simples com HTML e CSS.
+- **[MarkDown](https://github.com/Marcelo-Gallo/Caderno/tree/main/Markdown)**: Repositório com resumos e guias sobre Markdown.
 
 ### SQL
-- **[MySQL](https://github.com/Marcelo-Gallo/Caderno/MySQL)**: Repositório com resumos e projetos simples em C/C++.
+- **[MySQL](https://github.com/Marcelo-Gallo/Caderno/tree/main/MySQL)**: Repositório com resumos e projetos simples em C/C++.
 
 ### Pesquisa Científica
 
-- **[Projetos de Pesquisa](https://github.com/Marcelo-Gallo/Caderno/Bibliografia_IC_2024)**: Repositório com projetos e artigos científicos relacionados à minha pesquisa acadêmica.
+- **[Projetos de Pesquisa](https://github.com/Marcelo-Gallo/Caderno/tree/main/Bibliografia_IC_2024)**: Repositório com projetos e artigos científicos relacionados à minha pesquisa acadêmica.
 
 ---
 
