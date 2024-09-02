@@ -29,6 +29,5 @@ Como alguem apaixonado por pesquisa, estou sempre em busca de expandir meus hori
 
 - **Email**: [marceloaugustogallo@gmail.com.br](mailto:marceloaugustogallo@gmail.com.br)
 - **LinkedIn**: [Marcelo Gallo](https://https://www.linkedin.com/in/marceloaugustogodoigallo/)
-- **GitHub**: [Marcelo-Gallo](https://github.com/Marcelo-Gallo)
 
 ---
