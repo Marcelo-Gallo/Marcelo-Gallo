@@ -28,6 +28,6 @@ Como alguem apaixonado por pesquisa, estou sempre em busca de expandir meus hori
 ## 📫 Contato
 
 - **Email**: [marceloaugustogallo@gmail.com.br](mailto:marceloaugustogallo@gmail.com.br)
-- **LinkedIn**: [Marcelo Gallo](https:www.linkedin.com/in/marceloaugustogodoigallo/)
+- **LinkedIn**: [Marcelo Gallo](https://www.linkedin.com/in/marceloaugustogodoigallo/)
 
 ---
